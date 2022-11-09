@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="content_description_search">Search</string>
+    <string name="content_description_city_icon">Icon for city</string>
+    <string name="description_weather_data_unavailable">Weather data unavailable</string>
+    <string name="direction_n">N</string>
+    <string name="direction_nne">NNE</string>
+    <string name="direction_ne">NE</string>
+    <string name="direction_ene">ENE</string>
+    <string name="direction_e">E</string>
+    <string name="direction_ese">ESE</string>
+    <string name="direction_se">SE</string>
+    <string name="direction_sse">SSE</string>
+    <string name="direction_s">S</string>
+    <string name="direction_ssw">SSW</string>
+    <string name="direction_sw">SW</string>
+    <string name="direction_wsw">WSW</string>
+    <string name="direction_w">W</string>
+    <string name="direction_wnw">WNW</string>
+    <string name="direction_nw">NW</string>
+    <string name="direction_nnw">NNW</string>
+    <string name="description_unfold_less">Collapse card</string>
+    <string name="description_unfold_more">Expand card</string>
+    <string name="title_activity_old_xml_layout">OldXmlLayoutActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
