@@ -16,18 +16,8 @@
         android:theme="@style/Theme.WeatherAppDemo"
         tools:targetApi="31">
         <activity
-            android:name=".OldXmlLayoutActivity"
-            android:exported="false"
-            android:label="@string/title_activity_old_xml_layout"
-            android:theme="@style/Theme.WeatherAppDemo.NoActionBar">
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".MainActivity"
             android:exported="true"
-            android:label="@string/app_name"
             android:theme="@style/Theme.WeatherAppDemo">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
